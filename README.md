@@ -6,7 +6,6 @@
 > - ### Trabalhou por 2 anos como DIGITAL no setor SISTEMAS (Cobasi)
 > - ### Curso DevDojo completo e JAVA Avançado
 > - ### Trabalha PJ (Regras de Negócios ampla)
-> - 
 > <p>
 >  <a href="https://www.linkedin.com/in/matheus-batista-664243388/" rel="nofollow noreferrer">
 >   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
@@ -25,9 +24,9 @@
   <a href="#" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
   </a> &nbsp; 
-  <a href="#" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
-  </a> &nbsp; 
+  <a href="#">
+   <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=E76F00" alt="Java">
+  </a>&nbsp;
   <a href="#" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
   </a> &nbsp; 
@@ -52,8 +51,8 @@
    <a href ="#">
      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
    </a>&nbsp;
-   <a href ="#">
-   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+   <a href="#">
+   <img src="https://img.shields.io/badge/Maven-1565C0?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
   </a>&nbsp;
    <a href="#">
    <img src="https://img.shields.io/badge/Batch_Script-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="Batch Script">
@@ -67,12 +66,7 @@
 
  ## 📱 Web/Mobile 🔝
  
-### 📦 Sendly
-A delivery platform focused on security, transparency and reliability.
-
-**Technologies:** Java, Spring Boot, MySQL, JavaScript
-
-[Repository](LINKAFTER)
+ ### PROJECTS HERE
 
 
 
