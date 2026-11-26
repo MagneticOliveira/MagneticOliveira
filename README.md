@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
   </a> &nbsp; 
   <a href="#">
-   <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=E76F00" alt="Java">
+     <img src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   </a>&nbsp;
   <a href="#" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
